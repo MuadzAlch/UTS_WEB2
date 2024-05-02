@@ -11,15 +11,16 @@ Cara Kerja Sistem
 
    Silakan isi setiap form yang dibutuhkan untuk menambahkan buku.
 
-3. Buku yang sudah ditambahkan akan tampil pada bagian "Daftar Buku"
+2. Buku yang sudah ditambahkan akan tampil pada bagian "Daftar Buku"
    
    ![image](https://github.com/MuadzAlch/UTS_WEB2/assets/149521155/c6083f83-0ce0-4011-8a07-7f5954d01e4c)
 
-   Pada bagian "Daftar Buku" pengguna dapat melakukan peminjaman buku dengan mengklik tombol "Pinjam" di bagian kanan list buku
+3.  Pada bagian "Daftar Buku" pengguna dapat melakukan peminjaman buku dengan mengklik tombol "Pinjam" di bagian kanan list buku
+
+    pengguna diminta untuk memasukkan nama dan memilih tanggal peminjaman.
    
    ![image](https://github.com/MuadzAlch/UTS_WEB2/assets/149521155/357175d1-dcb9-4ab3-940e-dacaf6680411)
 
-   pengguna diminta untuk memasukkan nama dan memilih tanggal peminjaman.
 
    pengguna tidak dapat meminjam lebih dari lima buku
    
